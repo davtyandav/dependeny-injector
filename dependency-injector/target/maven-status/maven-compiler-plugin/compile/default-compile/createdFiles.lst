@@ -1,0 +1,4 @@
+org/example/BuilderProcessor.class
+META-INF/services/javax.annotation.processing.Processor
+org/example/ApplicationContext.class
+org/example/Component.class
